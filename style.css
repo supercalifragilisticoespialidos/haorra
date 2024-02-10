@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.fhq2dGyLs36KZIiDxZj7kwHaKj&pid=Api&P=0&h=180");
+    font-size: 25px;
+}
+.prueba {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+.prueba2 {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    float: right;
+   
+}
+
+#img1{
+    height: 200px;
+    right: 200px;
+}

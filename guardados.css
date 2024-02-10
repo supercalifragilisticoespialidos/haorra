@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image:url("https://cdn-icons-png.flaticon.com/256/3458/3458002.png");
+    font-size: 25px;
+}
+.nombre {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
